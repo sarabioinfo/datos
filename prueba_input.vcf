@@ -26,6 +26,6 @@
 ##contig=<ID=X,length=156040895>
 ##contig=<ID=Y,length=57227415>
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
-12	56453071	.	G	A	.	.	.
+12	56453071	.	C	T	.	.	.
 17	31223568	.	G	A 	.	.	.
-X 67722709	.	A 	G	.	.	.
+X	101399747	.	C  	T  	.	.	.
