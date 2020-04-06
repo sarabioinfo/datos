@@ -26,4 +26,4 @@
 ##contig=<ID=X,length=156040895>
 ##contig=<ID=Y,length=57227415>
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
-17  31232747  . A G . . .
+17  31232747  . A G . . 
